@@ -1,38 +1,40 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: 'Création d'un bug'
+labels: 'bug'
+assignees: 'Titiana-G'
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Description du bug**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Ici doit être rajoutée une description du bug
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Procédure pour reproduire le bug**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+Voici les étapes à reproduire:
+1. Allez dans  '...'
+2. Cliquez sur  '....'
+3. Faites défiler vers le bas jusqu'à  '....'
+4. Voir l'erreur 
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Comportement attendu**
+Ici doit avoir une description de ce qu'on attend
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Capture d'écran**
+Capture d'écran du procédé afin de vous aider à expliquer le problème. 
 
-**Additional context**
-Add any other context about the problem here.
+**Information ordinateur:**
+ - OS: [MacOs, Windows, Linux]
+ - Browser [Chrome, Safari, firefox]
+ - Version [2022]
+
+**Information Smarphone:**
+ - Device: [Iphone, Oppo, Samsung]
+ - OS: [Maj 2022]
+ - Browser [Chrome, Safari, FireFox]
+ - Version [2022]
+
+**Informations supplémentaires**
+Ici on ajoute du contexte supplémentaire concernant le problème
