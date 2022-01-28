@@ -1,3 +1,3 @@
 <?php
 
-echo 'Page Home !';
+echo 'Page Home';
