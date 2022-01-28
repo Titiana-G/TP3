@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: 'Création d'un bug'
-labels: 'bug'
-assignees: 'Titiana-G'
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
